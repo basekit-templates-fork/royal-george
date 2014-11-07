@@ -1,4 +1,4 @@
-specify
+Royal George
 =======
 
-Standard template
+Standard Theme

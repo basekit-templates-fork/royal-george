@@ -1,20 +1,20 @@
 {
-	"name":"Specify",
-	"thumbnail":"specify.png",
+	"name":"Royal George",
+	"thumbnail":"royal-george.png",
 	"templateType":"standard",
 	"pageTypes":["home"],
 	"tags": {
-		"en": ["minimal", "clean", "photography", "modern", "website", "creative", "unique", "media", "sans-serif"]
+		"en": ["minimal", "clean", "bar", "modern", "website", "creative", "unique", "media", "sans-serif"]
 	},
 	"colorSwatches": {
         "Swatch 1": {
             "color1":"#ffffff",
             "color2":"#204468",
-            "color3":"#8093cc",
+            "color3":"#494949",
             "color4":"#204468",
             "color5":"#7f7f7f",
             "color6":"#ffffff",
-            "color7":"#8093cc"
+            "color7":"#494949"
         },
         "Swatch 2": {
             "color1":"#ffffff",
