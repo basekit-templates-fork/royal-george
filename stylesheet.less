@@ -425,6 +425,13 @@ select {
 	}
 }
 
+*::-ms-backdrop, body { 
+	.widget.ecomproduct .ecom-product .ecom-product-info .ecom-product-variation select,
+	.svg .widget.ecomproduct .ecom-product .ecom-product-info .ecom-product-variation select, select {
+		background-image: none;
+	}
+} /* removes arrow in IE11 only */
+
 input[type="search"]::-webkit-search-decoration {
 	display: none;
 }
